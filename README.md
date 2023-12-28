@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Codewars](https://www.codewars.com/users/ArtemChikolaev)
+![Codewars](https://github.r2v.ch/codewars?user=ArtemChikolaev)
