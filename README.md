@@ -49,7 +49,7 @@
 
 - [Crossball (App Store)](https://apps.apple.com/ru/app/сrossball/id1627269403)  
   **Role:** Frontend developer  
-  **Stack:** Riverpod, Retrofit (dio + retrofit_generator), hive, firebase_auth, firebase_messaging, auto_route.
+  **Stack:** Riverpod, Retrofit, Dio, hive, auto_route.
 
 - [Ужин Дома (App Store)](https://apps.apple.com/ru/app/ужин-дома-продукты-и-рецепты/id1564443317)  
   **Role:** Frontend developer  
@@ -60,8 +60,8 @@
   **Stack:** Riverpod, Dio, WebSockets, shared_preferences, gRPC, flutter_secure_storage, auto_route.
 
 - [TeacherMate: Для репетиторов (App Store)](https://apps.apple.com/ru/app/teachermate-for-tutors/id6605933778?l=en-GB)  
-  **Role:** Frontend developer 
-  **Stack:** BLoC, Dio, shared_preferences, go_router, freezed, Firebase Analytics.
+  **Role:** Frontend developer   
+  **Stack:** BLoC, Dio, shared_preferences, freezed, Firebase Analytics, go_router.
 
 > Pet projects: [finance_flow](https://github.com/finance-flow-app/finance_flow), [Clonicus_ui](https://github.com/ArtemChikolaev/Clonicus_ui)
 
