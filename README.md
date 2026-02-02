@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Artem
 
-<h2 align="center">Flutter Developer</h2>
+<h2 align="center">Frontend Developer</h2>
 
 ---
 
