@@ -63,7 +63,7 @@
   **Role:** Frontend developer   
   **Stack:** BLoC, Dio, shared_preferences, freezed, Firebase Analytics, go_router.
 
-> Pet projects: [finance_flow](https://github.com/finance-flow-app/finance_flow), [Clonicus_ui](https://github.com/ArtemChikolaev/Clonicus_ui)
+> Pet projects: [finance_flow](https://github.com/finance-flow-app/finance_flow), [smart_habit_tracker](https://github.com/ArtemChikolaev/Smart-Habit-Tracker), [Clonicus_ui](https://github.com/ArtemChikolaev/Clonicus_ui) 
 
 ---
 
