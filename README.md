@@ -22,6 +22,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FF6F61?style=flat) <!-- custom label -->
 ![Drift](https://img.shields.io/badge/Drift-7C4DFF?style=flat) <!-- custom label -->
+![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-4CAF50?style=flat)
 
 ### UI / State / Networking:
 ![BLoC](https://img.shields.io/badge/BLoC-5A29E4?style=flat)
@@ -29,6 +30,8 @@
 ![Provider](https://img.shields.io/badge/Provider-7A7A7A?style=flat)
 ![Dio](https://img.shields.io/badge/Dio-0086FF?style=flat)
 ![Retrofit](https://img.shields.io/badge/Retrofit-00D4FF?style=flat)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
 
 ### Development / CI / Deployment:
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=fff)
