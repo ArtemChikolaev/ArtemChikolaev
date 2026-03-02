@@ -31,6 +31,8 @@
 ![Dio](https://img.shields.io/badge/Dio-0086FF?style=flat)
 ![Retrofit](https://img.shields.io/badge/Retrofit-00D4FF?style=flat)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-00599C?style=flat)
+![WebSockets](https://img.shields.io/badge/WebSockets-FF6B6B?style=flat)
 
 
 ### Development / CI / Deployment:
