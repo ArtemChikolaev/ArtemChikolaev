@@ -53,19 +53,19 @@
 ## 📱 I have been part of developing the following applications:
 
 - [Crossball (App Store)](https://apps.apple.com/ru/app/сrossball/id1627269403)  
-  **Role:** Frontend developer  
+  **Role:** Flutter developer  
   **Stack:** Riverpod, Retrofit, Dio, hive, auto_route.
 
 - [Ужин Дома (App Store)](https://apps.apple.com/ru/app/ужин-дома-продукты-и-рецепты/id1564443317)  
-  **Role:** Frontend developer  
+  **Role:** Flutter developer  
   **Stack:** BLoC, sqflite, Dio, Firebase,, shared_preferences, Firebase Crashlytics, go_router.
 
 - [Свет КСК (App Store)](https://apps.apple.com/ru/app/%D1%81%D0%B2%D0%B5%D1%82-%D0%BA%D1%81%D0%BA/id6444723387)  
-  **Role:** Frontend developer   
+  **Role:** Flutter developer   
   **Stack:** Riverpod, Dio, WebSockets, shared_preferences, gRPC, flutter_secure_storage, auto_route.
 
 - [TeacherMate: Для репетиторов (App Store)](https://apps.apple.com/ru/app/teachermate-for-tutors/id6605933778?l=en-GB)  
-  **Role:** Frontend developer   
+  **Role:** Flutter developer   
   **Stack:** BLoC, Dio, shared_preferences, freezed, Firebase Analytics, go_router.
 
 > Pet projects: [finance_flow](https://github.com/finance-flow-app/finance_flow), [smart_habit_tracker](https://github.com/ArtemChikolaev/Smart-Habit-Tracker), [Clonicus_ui](https://github.com/ArtemChikolaev/Clonicus_ui) 
