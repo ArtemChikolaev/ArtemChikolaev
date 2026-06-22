@@ -84,8 +84,13 @@
 
 ---
 
+Можно оформить так:
+
 ## 📫 Contact
-- Email: artemchikolaevdev@gmail.com  
-- Telegram: [just_artemch](https://t.me/just_artemch)  
+
+* Email: [chikolaev.av1@gmail.com](mailto:chikolaev.av1@gmail.com)
+* Telegram: [@ar_0000000](https://t.me/ar_0000000)
+* GitHub: [ArtemChikolaev](https://github.com/ArtemChikolaev)
+* LinkedIn: [Artem Chikolaev](https://www.linkedin.com/in/artem-chikolaev-781086418)
 
 ---
