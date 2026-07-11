@@ -7,40 +7,52 @@
 # 💻 Tech Stack:
 
 ### Languages & Frameworks:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
 
 ### Additional Languages / Native:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat\&logo=kotlin\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat\&logo=swift\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat\&logo=go\&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat\&logo=markdown\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat\&logo=latex\&logoColor=white)
 
 ### Databases / Local storage / Backend:
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FF6F61?style=flat) <!-- custom label -->
-![Drift](https://img.shields.io/badge/Drift-7C4DFF?style=flat) <!-- custom label -->
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF6F61?style=flat)
+![Drift](https://img.shields.io/badge/Drift-7C4DFF?style=flat)
 ![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-4CAF50?style=flat)
+![Secure Storage](https://img.shields.io/badge/Secure_Storage-2E7D32?style=flat)
 
 ### UI / State / Networking:
+
 ![BLoC](https://img.shields.io/badge/BLoC-5A29E4?style=flat)
+![Cubit](https://img.shields.io/badge/Cubit-4B32C3?style=flat)
 ![Riverpod](https://img.shields.io/badge/Riverpod-6BCBEB?style=flat)
 ![Provider](https://img.shields.io/badge/Provider-7A7A7A?style=flat)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat)
 ![Dio](https://img.shields.io/badge/Dio-0086FF?style=flat)
 ![Retrofit](https://img.shields.io/badge/Retrofit-00D4FF?style=flat)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat\&logo=redux\&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-00599C?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-FF6B6B?style=flat)
 
-
 ### Development / CI / Deployment:
+
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=fff)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 ### Observability / Design / Other:
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
 
