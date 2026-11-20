@@ -65,27 +65,20 @@
 
 ## 📱 Apps I've worked on
 
-I contributed to these apps as a Flutter developer.
+- **Crossball** · [App Store](https://apps.apple.com/ru/app/id1627269403) · [Google Play](https://play.google.com/store/apps/details?id=ru.crossball.crossball_app)<br>
+  **Stack:** Riverpod · Retrofit · Dio · Hive · auto_route
 
-**Crossball** helps players find local football, basketball and volleyball games. After a match, they can check their stats and player rating.<br>
-Riverpod · Retrofit · Dio · Hive · auto_route<br>
-[App Store](https://apps.apple.com/ru/app/id1627269403) · [Google Play](https://play.google.com/store/apps/details?id=ru.crossball.crossball_app)
+- **Ужин Дома** · [App Store](https://apps.apple.com/ru/app/id1564443317) · [Google Play](https://play.google.com/store/apps/details?id=ru.app.uzhindoma)<br>
+  **Stack:** BLoC · sqflite · Dio · Firebase · shared_preferences · Firebase Crashlytics · go_router
 
-**Ужин Дома** lets home cooks plan a week's meals, order the ingredients and follow each recipe in the app.<br>
-BLoC · sqflite · Dio · Firebase · shared_preferences · Firebase Crashlytics · go_router<br>
-[App Store](https://apps.apple.com/ru/app/id1564443317) · [Google Play](https://play.google.com/store/apps/details?id=ru.app.uzhindoma)
+- **Свет КСК** · [App Store](https://apps.apple.com/ru/app/id6444723387) · [Google Play](https://play.google.com/store/apps/details?id=ru.svet.kaluga.app_ksk)<br>
+  **Stack:** Riverpod · Dio · WebSockets · shared_preferences · gRPC · flutter_secure_storage · auto_route
 
-**Свет КСК** lets electricity customers in the Kaluga region submit meter readings, check their balance and pay bills.<br>
-Riverpod · Dio · WebSockets · shared_preferences · gRPC · flutter_secure_storage · auto_route<br>
-[App Store](https://apps.apple.com/ru/app/id6444723387) · [Google Play](https://play.google.com/store/apps/details?id=ru.svet.kaluga.app_ksk)
+- **TeacherMate** · [App Store](https://apps.apple.com/ru/app/id6605933778)<br>
+  **Stack:** BLoC · Dio · shared_preferences · Freezed · Firebase Analytics · go_router
 
-**TeacherMate** gives tutors a weekly view of lessons and payments. Each student's record keeps their contact details, lesson notes and homework together.<br>
-BLoC · Dio · shared_preferences · Freezed · Firebase Analytics · go_router<br>
-[App Store](https://apps.apple.com/ru/app/id6605933778) · [RuStore](https://www.rustore.ru/catalog/app/com.anatolyrosliakov.teacher_mate)
-
-**Тачка** tracks fuel and maintenance costs for each car. Drivers can describe a fuel stop in a chat, check the amount and save it to the car's history.<br>
-Flutter · Dart · BLoC · Dio · Retrofit<br>
-[App Store](https://apps.apple.com/ru/app/id6797004119) · [Google Play](https://play.google.com/store/apps/details?id=com.tachka.myApp)
+- **Тачка** · [App Store](https://apps.apple.com/ru/app/id6797004119) · [Google Play](https://play.google.com/store/apps/details?id=com.tachka.myApp)<br>
+  **Stack:** Flutter · Dart · BLoC · Dio · Retrofit
 
 ---
 
@@ -95,17 +88,23 @@ Flutter · Dart · BLoC · Dio · Retrofit<br>
 
 A personal finance tracker for people with accounts in several currencies. Import a bank statement and see monthly totals at Bank of Russia exchange rates. The Flutter app and Jaspr website share a Dart core and store records on the device with Drift and SQLite.
 
+**Stack:** Dart · Flutter · Jaspr · BLoC · Drift · SQLite
+
 [Repository](https://github.com/ArtemChikolaev/Birka) · [Open the web app](https://artemchikolaev.github.io/Birka/)
 
 ### Aegis Draft
 
 An offline Dota 2 drafting game. Pick a five-player roster, assign heroes and take the team through a tournament. A Go pipeline turns real OpenDota match data into player ratings for the React and TypeScript client. The same dataset also powers a 2D survival mode.
 
+**Stack:** TypeScript · React · Zustand · Vite · Go · Canvas 2D
+
 [Repository](https://github.com/ArtemChikolaev/aegis-draft) · [Play in the browser](https://artemchikolaev.github.io/aegis-draft/)
 
 ### Glimmerfall
 
 An isometric pixel-art action roguelike in development. Switch between three lamplighters mid-fight and chain their abilities against a swarm. Godot handles rendering and input, while a deterministic C# simulation lets bots play through combat encounters and reproduces runs from recorded inputs.
+
+**Stack:** Godot 4 · C# · .NET · Go
 
 [Repository](https://github.com/ArtemChikolaev/Glimmerfall)
 
