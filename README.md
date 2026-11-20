@@ -10,6 +10,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![Jaspr](https://img.shields.io/badge/Jaspr-00695C?style=flat)
 
 ### Additional Languages / Native:
 
@@ -62,25 +63,59 @@
 
 ---
 
-## 📱 I have been part of developing the following applications:
+## 📱 Apps I've worked on
 
-- [Crossball (App Store)](https://apps.apple.com/ru/app/сrossball/id1627269403)  
-  **Role:** Flutter developer  
-  **Stack:** Riverpod, Retrofit, Dio, hive, auto_route.
+I contributed to these apps as a Flutter developer.
 
-- [Ужин Дома (App Store)](https://apps.apple.com/ru/app/ужин-дома-продукты-и-рецепты/id1564443317)  
-  **Role:** Flutter developer  
-  **Stack:** BLoC, sqflite, Dio, Firebase,, shared_preferences, Firebase Crashlytics, go_router.
+**Crossball** helps players find local football, basketball and volleyball games. After a match, they can check their stats and player rating.<br>
+Riverpod · Retrofit · Dio · Hive · auto_route<br>
+[App Store](https://apps.apple.com/ru/app/id1627269403) · [Google Play](https://play.google.com/store/apps/details?id=ru.crossball.crossball_app)
 
-- [Свет КСК (App Store)](https://apps.apple.com/ru/app/%D1%81%D0%B2%D0%B5%D1%82-%D0%BA%D1%81%D0%BA/id6444723387)  
-  **Role:** Flutter developer   
-  **Stack:** Riverpod, Dio, WebSockets, shared_preferences, gRPC, flutter_secure_storage, auto_route.
+**Ужин Дома** lets home cooks plan a week's meals, order the ingredients and follow each recipe in the app.<br>
+BLoC · sqflite · Dio · Firebase · shared_preferences · Firebase Crashlytics · go_router<br>
+[App Store](https://apps.apple.com/ru/app/id1564443317) · [Google Play](https://play.google.com/store/apps/details?id=ru.app.uzhindoma)
 
-- [TeacherMate: Для репетиторов (App Store)](https://apps.apple.com/ru/app/teachermate-for-tutors/id6605933778?l=en-GB)  
-  **Role:** Flutter developer   
-  **Stack:** BLoC, Dio, shared_preferences, freezed, Firebase Analytics, go_router.
+**Свет КСК** lets electricity customers in the Kaluga region submit meter readings, check their balance and pay bills.<br>
+Riverpod · Dio · WebSockets · shared_preferences · gRPC · flutter_secure_storage · auto_route<br>
+[App Store](https://apps.apple.com/ru/app/id6444723387) · [Google Play](https://play.google.com/store/apps/details?id=ru.svet.kaluga.app_ksk)
 
-> Pet projects: [finance_flow](https://github.com/finance-flow-app/finance_flow), [smart_habit_tracker](https://github.com/ArtemChikolaev/Smart-Habit-Tracker)
+**TeacherMate** gives tutors a weekly view of lessons and payments. Each student's record keeps their contact details, lesson notes and homework together.<br>
+BLoC · Dio · shared_preferences · Freezed · Firebase Analytics · go_router<br>
+[App Store](https://apps.apple.com/ru/app/id6605933778) · [RuStore](https://www.rustore.ru/catalog/app/com.anatolyrosliakov.teacher_mate)
+
+**Тачка** tracks fuel and maintenance costs for each car. Drivers can describe a fuel stop in a chat, check the amount and save it to the car's history.<br>
+Flutter · Dart · BLoC · Dio · Retrofit<br>
+[App Store](https://apps.apple.com/ru/app/id6797004119) · [Google Play](https://play.google.com/store/apps/details?id=com.tachka.myApp)
+
+---
+
+## 🛠️ Personal projects
+
+### Birka
+
+A personal finance tracker for people with accounts in several currencies. Import a bank statement and see monthly totals at Bank of Russia exchange rates. The Flutter app and Jaspr website share a Dart core and store records on the device with Drift and SQLite.
+
+[Repository](https://github.com/ArtemChikolaev/Birka) · [Open the web app](https://artemchikolaev.github.io/Birka/)
+
+### Aegis Draft
+
+An offline Dota 2 drafting game. Pick a five-player roster, assign heroes and take the team through a tournament. A Go pipeline turns real OpenDota match data into player ratings for the React and TypeScript client. The same dataset also powers a 2D survival mode.
+
+[Repository](https://github.com/ArtemChikolaev/aegis-draft) · [Play in the browser](https://artemchikolaev.github.io/aegis-draft/)
+
+### Glimmerfall
+
+An isometric pixel-art action roguelike in development. Switch between three lamplighters mid-fight and chain their abilities against a swarm. Godot handles rendering and input, while a deterministic C# simulation lets bots play through combat encounters and reproduces runs from recorded inputs.
+
+[Repository](https://github.com/ArtemChikolaev/Glimmerfall)
+
+**Earlier projects** · [finance_flow](https://github.com/finance-flow-app/finance_flow) · [smart_habit_tracker](https://github.com/ArtemChikolaev/Smart-Habit-Tracker)
+
+<!--
+## Open source contributions
+
+- [Repository](repository-url) — What the change does. [Pull request](pull-request-url)
+-->
 
 ---
 
@@ -95,8 +130,6 @@
 </p>
 
 ---
-
-Можно оформить так:
 
 ## 📫 Contact
 
