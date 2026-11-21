@@ -112,7 +112,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 
 ## Open source contributions
 
-- [Gopeed](https://github.com/GopeedLab/gopeed)
+- [Gopeed](https://github.com/GopeedLab/gopeed) — a cross-platform download manager for HTTP and BitTorrent.
 
 ---
 
