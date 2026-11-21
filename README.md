@@ -110,11 +110,9 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 
 **Earlier projects** · [finance_flow](https://github.com/finance-flow-app/finance_flow) · [smart_habit_tracker](https://github.com/ArtemChikolaev/Smart-Habit-Tracker)
 
-<!--
 ## Open source contributions
 
-- [Repository](repository-url) — What the change does. [Pull request](pull-request-url)
--->
+- [Gopeed](https://github.com/GopeedLab/gopeed) — Proposed an **Open Folder** action in the system tray menu so users can open their download folder while Gopeed runs in the background. [PR #1681](https://github.com/GopeedLab/gopeed/pull/1681)
 
 ---
 
