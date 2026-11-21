@@ -112,7 +112,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 
 ## Open source contributions
 
-- [Gopeed](https://github.com/GopeedLab/gopeed) — Proposed an **Open Folder** action in the system tray menu so users can open their download folder while Gopeed runs in the background. [PR #1681](https://github.com/GopeedLab/gopeed/pull/1681)
+- [Gopeed](https://github.com/GopeedLab/gopeed)
 
 ---
 
