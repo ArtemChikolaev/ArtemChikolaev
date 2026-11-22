@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=500&lines=Hi+there%F0%9F%91%8B%2C+I'm+Artem+from+Russia.)](https://git.io/typing-svg)
 
-<h2 align="center">Flutter Developer with Full-Stack Experience</h2>
-
----
+<h3 align="center">Flutter Developer with Full-Stack Experience</h3>
 
 # 💻 Tech Stack:
 
@@ -56,12 +54,6 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ArtemChikolaev&icon=5&color=7)](https://visitcount.itsvg.in)
-
----
 
 ## 📱 Apps I've worked on
 
