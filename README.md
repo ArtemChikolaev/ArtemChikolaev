@@ -114,6 +114,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 - [FL Chart](https://github.com/imaNNeo/fl_chart) — a Flutter library for building customizable charts.
 - [LocalSend](https://github.com/localsend/localsend) — a cross-platform app for sharing files over a local network.
 - [Hiddify](https://github.com/hiddify/hiddify-app) — a cross-platform proxy client that supports protocols such as TUIC and Hysteria.
+- [Flutter](https://github.com/flutter/flutter) — a framework for building mobile, web, and desktop apps with Dart.
 
 ---
 
