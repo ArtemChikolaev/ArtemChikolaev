@@ -2,6 +2,8 @@
 
 <h3 align="center">Flutter Developer with Full-Stack Experience</h3>
 
+---
+
 # 💻 Tech Stack:
 
 ### Languages & Frameworks:
@@ -55,7 +57,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
 
-## 📱 Apps I've worked on
+---
+
+# 📱 Apps I've worked on
 
 - **Crossball** · [App Store](https://apps.apple.com/ru/app/id1627269403) · [Google Play](https://play.google.com/store/apps/details?id=ru.crossball.crossball_app)<br>
   **Stack:** Riverpod · Retrofit · Dio · Hive · auto_route
@@ -74,7 +78,7 @@
 
 ---
 
-## 🛠️ Personal projects
+# 🛠️ Personal projects
 
 ### Birka
 
@@ -102,7 +106,9 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 
 **Earlier projects** · [finance_flow](https://github.com/finance-flow-app/finance_flow) · [smart_habit_tracker](https://github.com/ArtemChikolaev/Smart-Habit-Tracker)
 
-## Open source contributions
+---
+
+# Open source contributions
 
 - [Gopeed](https://github.com/GopeedLab/gopeed) — a cross-platform download manager for HTTP and BitTorrent.
 - [FL Chart](https://github.com/imaNNeo/fl_chart) — a Flutter library for building customizable charts.
@@ -110,7 +116,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 
 ---
 
-## ⚡ Stats & extras
+# ⚡ Stats & extras
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemChikolaev&theme=apprentice" alt="profile-details" />
@@ -122,11 +128,9 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 * Email: [chikolaev.av1@gmail.com](mailto:chikolaev.av1@gmail.com)
 * Telegram: [@ar_0000000](https://t.me/ar_0000000)
 * GitHub: [ArtemChikolaev](https://github.com/ArtemChikolaev)
 * LinkedIn: [Artem Chikolaev](https://www.linkedin.com/in/artem-chikolaev-6421ba420)
-
----
