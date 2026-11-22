@@ -114,6 +114,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 
 - [Gopeed](https://github.com/GopeedLab/gopeed) — a cross-platform download manager for HTTP and BitTorrent.
 - [FL Chart](https://github.com/imaNNeo/fl_chart) — a Flutter library for building customizable charts.
+- [LocalSend](https://github.com/localsend/localsend) — a cross-platform app for sharing files over a local network.
 
 ---
 
