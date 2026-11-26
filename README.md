@@ -118,6 +118,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 - [Jaspr](https://github.com/schultek/jaspr) — a Dart framework for building websites with reusable components.
 - [Drift](https://github.com/simolus3/drift) — a Dart library for type-safe, reactive SQLite queries.
 - [flutter_map](https://github.com/fleaflet/flutter_map) — a Flutter package for adding interactive maps to apps.
+- [FVM](https://github.com/btwld/fvm) — a command-line tool for installing Flutter SDK versions and pinning one per project.
 
 ---
 
