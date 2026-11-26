@@ -119,6 +119,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 - [Drift](https://github.com/simolus3/drift) — a Dart library for type-safe, reactive SQLite queries.
 - [flutter_map](https://github.com/fleaflet/flutter_map) — a Flutter package for adding interactive maps to apps.
 - [FVM](https://github.com/btwld/fvm) — a command-line tool for installing Flutter SDK versions and pinning one per project.
+- [dart_style](https://github.com/dart-lang/dart_style) — the Dart source code formatter used by `dart format`.
 
 ---
 
