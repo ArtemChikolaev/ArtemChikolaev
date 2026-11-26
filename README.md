@@ -116,6 +116,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 - [Hiddify](https://github.com/hiddify/hiddify-app) — a cross-platform proxy client that supports protocols such as TUIC and Hysteria.
 - [Flutter](https://github.com/flutter/flutter) — a framework for building mobile, web, and desktop apps with Dart.
 - [Jaspr](https://github.com/schultek/jaspr) — a Dart framework for building websites with reusable components.
+- [Drift](https://github.com/simolus3/drift) — a Dart library for type-safe, reactive SQLite queries.
 
 ---
 
