@@ -142,3 +142,4 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 * GitHub: [ArtemChikolaev](https://github.com/ArtemChikolaev)
 * LinkedIn: [Artem Chikolaev](https://www.linkedin.com/in/artem-chikolaev-6421ba420)
 * Сетка: [Артем Чиколаев](https://setka.ru/users/019d3721-5970-7823-9bca-dada131e04cb)
+* Хабр Карьера: [Артем Чиколаев](https://career.habr.com/secretmikasa)
