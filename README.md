@@ -121,6 +121,7 @@ An isometric pixel-art action roguelike in development. Switch between three lam
 - [FVM](https://github.com/btwld/fvm) — a command-line tool for installing Flutter SDK versions and pinning one per project.
 - [dart_style](https://github.com/dart-lang/dart_style) — the Dart source code formatter used by `dart format`.
 - [Finamp](https://github.com/finamp-app/finamp) — a music player for streaming your Jellyfin library and downloading tracks for offline listening.
+- [Bloc](https://github.com/felangel/bloc) — a state management library for Dart and Flutter apps.
 
 ---
 
